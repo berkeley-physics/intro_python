@@ -5,7 +5,7 @@ Intended for Berkeley physics undergrads (sophomores/juniors).
 The intended order of the notebooks is:
 1. `Intro to Python.ipynb`
 2. `Intro to numerics.ipynb`
-3. `Intro to stats.ipynb`
+3. `Intro to stats.ipynb` (not finished)
 
 ## This is NOT a comprehensive guide to all numerical coding in Python. 
 ## This series of notebooks is intended to
