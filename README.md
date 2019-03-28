@@ -7,6 +7,8 @@ The intended order of the notebooks is:
 2. `Intro to numerics.ipynb`
 3. `Intro to stats.ipynb` (not finished)
 
+You should clone this repo (or download it), and launch the [Jupyter notebooks](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/). For more information see the first notebook.
+
 ## This is NOT a comprehensive guide to all numerical coding in Python. 
 ## This series of notebooks is intended to
 - introduce you to concepts and paradigms that are commonly used when programming
