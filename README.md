@@ -19,6 +19,8 @@ You should clone this repo (or download it), and launch the [Jupyter notebooks](
 - force you to learn how to read documentation, and help you get over the fear of unknown packages
 - give you the ability and confidence to solve new problems yourself
 
+(Berkeley is adding a coding component to its core undergrad program, so we need something like this to refer students to.)
+
 ## What I need feedback on
 - How long does it take? How many sittings/sessions?
 - Can someone for whom `computer==browser` understand everything? (Where do I need to add comments?)
