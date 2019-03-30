@@ -9,15 +9,18 @@ The intended order of the notebooks is:
 
 You should clone this repo (or download it), and launch the [Jupyter notebooks](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/). For more information see the first notebook.
 
-## This is NOT a comprehensive guide to all numerical coding in Python. 
+## This is NOT supposed to be a comprehensive guide to all numerical coding in Python. 
 ## This series of notebooks is intended to
 - introduce you to concepts and paradigms that are commonly used when programming
 - introduce you to the syntax and quirks of Python and NumPy
 - give you a rough idea of the advantages and limitations of numerical computation
+- convince you of the power/utility of numerics
 - show you how to use some commonly used techniques and tools
 - help you get over the intial intimidation of learning how to code
 - force you to learn how to read documentation, and help you get over the fear of unknown packages
 - give you the ability and confidence to solve new problems yourself
+
+(Berkeley is adding a coding component to its core undergrad program, so we need something like this to refer students to.)
 
 ## What I need feedback on
 - How long does it take? How many sittings/sessions?
