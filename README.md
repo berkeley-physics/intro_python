@@ -6,7 +6,7 @@ The intended order of notebooks is:
 2. `Intro to numerics.ipynb`
 3. `Intro to stats.ipynb`
 
-### Please fill out the feedback survey [here](https://forms.gle/UN3bFxiXg19GJfy9A) after completing the turotials
+### Please fill out the feedback survey [here](https://forms.gle/UN3bFxiXg19GJfy9A) after completing the tutorials
 
 [Click here](http://datahub.berkeley.edu/user-redirect/interact?account=avirukt&repo=intro_python&branch=master&path=Intro%20to%20Python.ipynb
 ) to open the first notebook at `datahub.berkeley.edu`. This will ask you log in via CalNet, then create a Jupyer server for you, clone this repository to your account on [DataHub](https://data.berkeley.edu/academics/resources/berkeley-data-stack), and then launch and direct you to the first notebook. You can also run the notebooks in your own environment by cloning/downloading this repo and launching the [Jupyter notebooks](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/). For more information see the first notebook.
