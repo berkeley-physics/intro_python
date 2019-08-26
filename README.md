@@ -23,3 +23,9 @@ The intended order of notebooks is:
 - give you the ability and confidence to solve new problems yourself
 
 ### This is NOT supposed to be a comprehensive guide to all numerical coding in Python. 
+
+## Other (better) Berkeley resources
+- [CS 61A](https://cs61a.org/)
+- [Physics 77](https://github.com/data-8/physics-connector)
+- [Python for astronomers](http://ugastro.berkeley.edu/pydecal/)
+- [Python practice](http://python.berkeley.edu/)
